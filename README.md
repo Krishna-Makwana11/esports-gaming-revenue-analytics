@@ -162,4 +162,4 @@ This project delivers an end-to-end data analytics study and interactive dashboa
 
 - **Author:** Krishna Makwana
 - **Mentorship:** Rahul Gupta Sir
-- **Portfolio:** [GitHub Profile](https://github.com/)
+- **Portfolio:** [Krishna-Makwana11](https://github.com/Krishna-Makwana11)
