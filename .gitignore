@@ -1,0 +1,11 @@
+# Excel temporary / lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.csv
+*.tmp
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
